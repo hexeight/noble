@@ -1,4 +1,4 @@
-# Turing bitcoin non-fungible
+# Turning bitcoin non-fungible
 
 An asset can be considered non-fungible when it cannot be replaced by another asset in whole or in part. In simple terms, an asset that can be considered unique due to its attributes even amongst its own kind, is non-fungible. Gold for instance can be considered fungible, as a kilogram of gold can be replaced by a kilogram of gold.
 
