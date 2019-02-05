@@ -1,2 +1,7 @@
-# noble
-An experiment to explore ways in which two coins can be considered different from each other on the blockchain.
+# Turing bitcoin non-fungible
+
+## What is a non-fungible asset?
+
+## Who wons the first bitcoin?
+
+### Looking at transactions the old fashioned way
