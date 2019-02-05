@@ -2,6 +2,6 @@
 
 ## What is a non-fungible asset?
 
-## Who wons the first bitcoin?
+## Who owns the first bitcoin?
 
 ### Looking at transactions the old fashioned way
