@@ -9,6 +9,7 @@ Though for a brief period Von Laue and Franck's awards were reduced to what one 
 ## Who owns the first bitcoin?
 Bitcoin inherently is fungible. While bitcoin is not designed to differentiate between one coin from another, could we trace the owners of the first bitcoin ever? A logical process to prove the origins of a coin in a wallet can in essence allow us to distinguish one coin from another.
 
-For instance, I cannot choose to spend one bitcoin from my wallet in favor of another the way I could do with fiat currency coins in my physical wallet.
-
 ### Looking at transactions the old fashioned way
+Bitcoin transactions carry 3 primary components - a list of input transaction(s), output transaction(s)
+
+For instance, I cannot choose to spend one bitcoin from my wallet in favor of another the way I could do with fiat currency coins in my physical wallet.
